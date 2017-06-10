@@ -1,0 +1,371 @@
+#photo{
+    width: 100%;
+    height: 188px;
+    background: url("../img/images/things_07.png") no-repeat center center ;
+}
+#icon{
+    width: 1380px;
+    position: relative;
+    top: 136px;
+    left: 13.7%;
+}
+#icon img{
+    position: relative;
+    z-index: 2;
+
+}
+#name,#saying{
+    position: relative;
+    left: 25%;
+}
+#saying{
+    width: 400px;
+    display: inline-block;
+}
+    #reset{
+    float: right;
+    color: white;
+    position: relative;
+    right: 10%;
+
+}
+#sign{
+    position:absolute;
+    background: #f3f3f3;
+    width: 240px;
+    font-size: 13px;
+    margin-top: 10px;
+    font-weight: bold;
+    border: 0px;
+    color: #6b6b6b;
+}
+#reset img{
+    vertical-align: middle;
+}
+#grey{
+    position: relative;
+    display: block;
+    background: #f3f3f3;
+    margin: 0 auto;
+    width: 1200px;
+    height: 92px;
+    z-index: 0;
+}
+/********photo end***********/
+#content{
+    height: 876px;
+    width:1200px;
+    background: #f3f3f3;
+    margin:0 auto;
+    position: relative;
+}
+.series{
+    position: absolute;
+    width:248px;
+    height: 295px;
+    background: #fba1a1;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.s1{
+    height: 59px;
+    line-height: 59px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    clear:both;
+}
+#seriesImg1{
+    position: absolute;
+    top: 17px;
+    left: 35px;
+}
+#blue{
+    height: 59px;
+    width: 7px;
+    background: #a0ecd9;
+    display: inline-block;
+    position: absolute;
+}
+#seriesImg2{
+    display: inline-block;
+    position: absolute;
+    top: 77px;
+    left: 35px;
+}
+#seriesImg3{
+    position: absolute;
+    top: 136px;
+    left: 35px;
+}
+#seriesImg4{
+     position: absolute;
+     top: 195px;
+     left: 35px;
+ }
+#seriesImg5{
+    position: absolute;
+    top: 254px;
+    left: 36px;
+}
+.s2{
+    float: left;
+    width: 248px;
+    background:#fc7d7d;
+    height: 59px;
+    line-height: 59px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+}
+.massage{
+    display: inline-block;
+    background: #a0ecd9;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px;
+    text-align: center;
+    width: 38px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: 255px;
+    left: 180px;
+
+}
+#girl{
+    position: absolute;
+    margin-left: 30px;
+    top: 305px;
+}
+.func{
+    height: 760px;
+    width: 830px;
+    background: #ffffff;
+    position: absolute;
+    left: 325px;
+    border-radius: 10px;
+}
+#search{
+    width: 560px;
+    height: 50px;
+    border: 2px solid #a0ecd9;
+    border-radius: 10px;
+    background: #a0ecd9;
+    margin: 25px auto;
+    position: relative;
+}
+#searchTxt{
+    background: white url(../img/search.gif) no-repeat ;
+    background-position: 10px 10px;
+    text-indent: 55px;
+    border: 0;
+    width: 380px;
+    height: 50px;
+    position: absolute;
+    outline: none;
+    color: #51d5b3;
+    font-size: 18px;
+    line-height: 50px;
+    font-weight: 400;
+}
+#searchTxt:-ms-input-placeholder{
+    color: #51d5b3;
+    font-size: 16px;
+}
+#searchTxt::-webkit-input-placeholder{
+    color: #51d5b3;
+    font-size: 15px;
+}
+#searchBtn{
+    border: 0;
+    background: #23cfa7;
+    height: 52px;
+    width: 182px;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: -1px;
+    right: -1px;
+    z-index: 2;
+}
+#right{
+    width: 820px;
+    height: 630px;
+    margin-top: 30px;
+    text-align: center;
+}
+#right form input{
+    width: 556px;
+    height: 48px;
+    margin-top: 20px;
+}
+#right .info{
+    height: 60px;
+    border-bottom: 1px solid #cccccc ;
+    position: relative;
+}
+#right li{
+    margin-top: 14px;
+    float: left;
+    width: 150px;
+    height: 18px;
+    line-height: 18px;
+    text-align: center;
+    font-size: 10px;
+    border-right: solid #7c60aa 2px;
+    color: #7c60aa;;
+}
+#li1{
+    margin-top: 5px!important;
+    background: #795ca8;
+    height: 36px!important;
+    width: 150px;
+    line-height: 36px!important;
+    border-radius: 10px;
+    position: absolute;
+    left: 60px;
+    color: #ffffff!important;
+    clear: both;
+
+}
+#li2{
+    margin-left: 200px;
+}
+.checkB{
+    position: absolute;
+    top: 50%;
+    margin-top: -7px;
+    left: 15px;
+
+}
+#cake{
+    margin: 20px 0;
+
+}
+#cake .good{
+    height: 175px;
+    widows: 800px;
+    margin: 10px;
+    border: 1px solid #fbcaca;
+    border-radius: 15px;
+}
+#cake .price{
+    height: 55px;
+    background: #fbcaca;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;;
+    position: relative;
+}
+.price span{
+    margin-left: 45px;
+    margin-right: 40px;
+    font-size: 15px;
+    color: #ffffff;
+    line-height: 55px;
+    font-weight: bold;
+    float: left;
+}
+.price img{
+    position: absolute;
+    top:50%;
+    margin-top :-15px;
+    right: 25px;
+}
+.things img{
+    position:absolute;
+    top:50%;
+    margin-top:-53px;
+    left: 20px;
+}
+#cake .things{
+    height: 120px;
+    padding: 2px;
+    position: relative;
+
+}
+.span1{
+    text-align: left;
+    display:inline-block;
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    top: 12px;
+    left: 130px;
+    font-size: 15px;
+}
+.span2{
+    height: 40px;
+    width: 120px;
+    font-size: 22px;
+    font-weight: bolder;
+    position: absolute;
+    top: 20px;
+    left: 380px;
+    text-align: center;
+}
+.span2-2{
+    height: 40px;
+    width: 120px;
+    font-size: 16px;
+    font-weight: bolder;
+    position: absolute;
+    top: 60px;
+    left: 380px;
+    text-align: center;
+}
+.span3-1{
+    display: inline-block;
+    border: 1px solid #dcdcdc;
+    border-bottom: 0;
+    border-top: 0;
+    width: 110px;
+    height: 60px;
+    line-height: 60px;
+    position: absolute;
+    top: -1px;
+    left: 570px;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.span3-2{
+    display: inline-block;
+    border: solid 1px #dcdcdc;
+    border-top: 0;
+    border-bottom: 0;
+    width: 110px;
+    height: 60px;
+    line-height: 60px;
+    position: absolute;
+    top: 49px;
+    left: 570px;
+    font-size: 16px;
+    font-weight: bolder;
+}
+.span4{
+    display: inline-block;
+    height: 130px;
+    width: 120px;
+    line-height: 110px;
+    position: absolute;
+    top: -1px;
+    left: 680px;
+    font-size: 16px;
+    font-weight: bolder;
+    text-align: center;
+}
+#cake .things div{
+    display: inline-block;
+    width: 80px;
+    /*border: 1px solid #ece0c8;*/
+    height: 120px;
+}
+#cake a{
+    color: black;
+}
+.series a{
+    color: #ffffff;}

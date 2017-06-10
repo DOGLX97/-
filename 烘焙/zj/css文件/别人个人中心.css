@@ -1,0 +1,246 @@
+/*headerk开始*/
+#header{
+    height: 52px;
+    background: #fba1a1;
+    width: 100%;
+    position: relative;
+}
+#fba1a1{
+    height: 52px;
+    background: #fba1a1;
+    position: relative;
+}
+#logo{
+    float: left;
+    margin-left: 140px;
+}
+#major{
+    float: right;
+    margin-right: 625px;
+}
+#header #nav {
+    width: 462px;
+    position: absolute;
+    right: 10%;
+    top: 20px;
+}
+#header #nav a{
+    display: inline-block;
+    width: 64px;
+    margin-right: 10px;
+    float: left;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    line-height: inherit;
+    cursor: pointer;
+}
+#bg{
+    float: left;
+}
+/*header结束*/
+/*body开始*/
+#body{
+    height: 2400px;
+}
+#headhead{
+    float: left;
+    margin-left: 157px;
+    display:block;
+}
+#f3f3f3{
+    width: 1165px;
+    background: #f3f3f3;
+    height: 2400px;
+    margin-left: 105px;
+}
+#hard{
+    position: relative;
+    display: block;
+}
+#oneself{
+    background: #fba1a1;
+    display: block;
+    width: 256px;
+    height: 250px;
+    float: left;
+    margin-left: -197px;
+    margin-top: 90px;
+    border-radius: 10px;
+}
+#oneself li{
+    margin-top:17px;
+    text-align: center;
+}
+
+#send input{
+    width: 830px;
+    height: 120px;
+    display: block;
+    float: right;
+    margin-top: 50px
+}
+#onep{
+    float: right;
+}
+#hardup{
+    position: relative;
+}
+#sendp{
+    float: right;
+    position: absolute;
+    margin-left: 200px;
+}
+#awoman{
+    float: left;
+    margin-top: 20px;
+    position: absolute;
+}
+#awoman img{
+    margin-top: 550px;
+}
+/*body结束*/
+/*宏哥给的css开心*/
+#pyq{
+    float: right;
+    position: absolute;margin-top: 550px;
+    margin-left: 300px;
+}
+.right{
+    width: 827px;
+    height: 850px;
+    float: left;
+    background: white;
+    margin-bottom: 5px;
+}
+.top{
+    width: 832px;
+    height: 565px;
+}
+.float{
+    float: left;
+}
+.pic img{
+    margin-top: 23px;
+
+}
+.right .sculpture{
+    width: 92px;
+    height: 563px;
+    float: left;
+}
+.right .swag{
+    float: left;
+    width: 707px;
+}
+.swag .webname{
+    font-size: 20px;
+    margin-bottom: 13px;
+    font-weight: bold;
+}
+.swag .discribe{
+    font-size: 20px;
+    margin-bottom: 17px;
+    color: #484747;
+}
+.swag .date{
+    color: #484747;
+    margin-top: 12px;
+    margin-bottom: 14px;
+}
+.line{
+    width: 820px;
+    height: 59px;
+}
+.line div{
+    float: left;
+    width: 108px;
+    height: 25px;
+    padding-left: 82px;
+    margin-top: 19px;
+    border-right:1px solid #e2e2e2;
+    color: #8d8989;
+}
+.line{
+    border-bottom:1px solid #e2e2e2;
+    border-top:1px solid #e2e2e2;
+
+}
+.inputtext{
+    height: 50px;
+    width: 793px;
+    border: 2px solid #f88181;
+    border-radius: 5px;
+    margin-top: 11px;
+    margin-left: 9px;
+}
+.discusses{
+    margin-left: 18px;
+}
+.but button{
+    width: 86px;
+    height: 36px;
+    border-radius: 3px;
+}
+img[class="img"]{
+    display: inline-block;
+    margin-left:  722px;
+    margin-top: 10px;
+}
+.smile{
+    float: left;
+}
+.criticism{
+    margin-left: 60px;
+    height: 50px;
+}
+.reply{
+    height: 20px;
+
+}
+.criticism .names{
+    font-weight: bold;
+}
+.criticism .smiles{
+    color: #a5a5a5;
+}
+.reply p{
+    width: 154px;
+    line-height:34px ;
+    margin-right: 0px;
+    color: #a5a5a5;
+}
+.reply p img{
+    position:relative;
+    top: 7px;
+}
+.reply p[class="replypic"]{
+    width: 80px;
+    float: right;
+    position: relative;
+    top: -32px;
+}
+#pyq{
+    float: right;
+}
+/*宏哥给的css开心*/
+
+/******footer start*********/
+#footer{
+    height: 202px;
+    background: #4e4e4e;
+}
+#footer ul{
+    float: left;
+    /*border: 1px solid white;*/
+    padding: 20px;
+    margin-left: 36px;
+}
+#footer a,p{
+    color: white;
+    font-size: 6px;
+}
+#footer p{
+    padding: 20px;
+}
+/******footer end*********/

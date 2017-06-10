@@ -1,0 +1,157 @@
+#photo{
+    width: 100%;
+    height: 188px;
+    background: url("../img/things_07.png") no-repeat center center ;
+}
+#photo #icon{
+    position: relative;
+    top: 136px;
+    left: 14%;
+}
+#photo #name,#saying{
+    position: relative;
+    left: 25%;
+}
+#saying{
+    width: 400px;
+    display: inline-block;
+}
+#photo #reset{
+    float: right;
+    color: white;
+    position: relative;
+    right: 10%;
+
+}
+#sign{
+    position:absolute;
+    background: #f3f3f3;
+    width: 240px;
+    font-size: 13px;
+    margin-top: 10px;
+    font-weight: bold;
+    border: 0px;
+    color: #6b6b6b;
+}
+#reset img{
+    vertical-align: middle;
+}
+
+#content{
+    margin-top: 100px;
+    height: 1600px;
+}
+#info li{
+    width: 243px;
+    height: 56px;
+    background: lightpink;
+    color: white;
+    line-height: 56px;
+    text-align: center;
+
+}
+#info li:hover{
+    background: hotpink;
+    cursor: pointer;
+}
+#info{
+
+    float: left;
+}
+#detail{
+    width: 823px;
+    height: 1600px;
+    float: left;
+    margin-left: 18px;
+    background: #f3f3f3;
+}
+.detail1{
+    height: 800px;
+}
+.picture{
+    width: 823px;
+    height: 595px;
+}
+.tx{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.description{
+    width: 700px;
+    height: 100px;
+    float: right;
+    margin-top: 20px;
+}
+.description .name1{
+    font-size: 14px;
+    font-weight: bolder;
+}
+.description .name2{
+    font-size: 14px;
+    font-weight: bolder;
+    color: #686868;
+}
+.bigger{
+    float: right;
+    margin-right: 30px;
+    height: 450px;
+}
+.zan{
+    width: 820px;
+    height: 64px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+
+}
+#detail li{
+    width: 205px;
+    height: 64px;
+    font-size: 14px;
+    color: #a2a2a2;
+    float: left;
+    line-height: 64px;
+    text-align: center;
+}
+#detail li:hover{
+    cursor: pointer;
+    background: lightpink;
+    color: white;
+}
+input{
+    width: 799px;
+    height: 50px;
+    margin: 15px 0;
+    border: 2px solid pink;
+    border-radius: 2px;
+    text-indent: 10px;
+}
+.submit{
+    width: 85px;
+    height: 33px;
+    background: pink;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    float: right;
+    margin-right: 20px;
+    cursor: pointer;
+}
+#footer{
+    height: 202px;
+    background: #4e4e4e;
+}
+#footer ul{
+    float: left;
+    /*border: 1px solid white;*/
+    padding: 20px;
+    margin-left: 36px;
+}
+#footer a{
+    color: white;
+    font-size: 6px;
+}
+#footer p{
+    padding: 20px;
+    color: white;
+    font-size: 6px;
+}

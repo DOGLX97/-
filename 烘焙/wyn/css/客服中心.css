@@ -1,0 +1,112 @@
+/************header¿ªÊ¼***********/
+#header{
+    height: 52px;
+    background: #fba1a1;
+    width: 100%;
+    position: relative;
+}
+#header #logo{
+    position: absolute;
+    top: 9px;
+    left: 10%;
+}
+#header #home{
+    width: 100px;
+    height: 74px;
+    background: url("../img/home.png") no-repeat;
+    position: absolute;
+    left: 45%;
+    z-index: 1;
+}
+#header #nav {
+    width: 462px;
+    position: absolute;
+    right: 10%;
+    top: 20px;
+}
+#header #nav a{
+    display: inline-block;
+    width: 64px;
+    margin-right: 10px;
+    float: left;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    line-height: inherit;
+}
+
+/************header½áÊø***********/
+input{
+    width: 475px;
+     height: 50px;
+     text-indent: 10px;
+     border: 2px solid dodgerblue;
+     margin-top: 50px;
+    color: dodgerblue;
+    font-size: 19px;
+}
+#search.float{
+    text-align: center;
+}
+#search .sear{
+    width: 170px;
+    height: 50px;
+    margin-left: 0;
+    border: 2px solid dodgerblue;
+    font-size: 19px;
+    background: cornflowerblue;
+    color: white;
+}
+.para{
+
+    height: 33px;
+}
+#info p{
+    float: left;
+}
+#info img{
+    float: right;
+    display: block;
+}
+#info{
+    margin-top: 120px;
+    margin-left: 288px;
+    height: 350px;
+
+}
+#info .infom{
+    width: 340px;
+    height: 80px;
+    margin-right: 180px;
+    margin-top: 48px;
+}
+.infom{
+    float: left;
+}
+p{
+    font-weight: bolder;
+    font-size: 24px;
+}
+span{
+    font-size: 14px;
+    font-weight: bolder;
+}
+#footer{
+    height: 202px;
+    background: #4e4e4e;
+}
+#footer ul{
+    float: left;
+    /*border: 1px solid white;*/
+    padding: 20px;
+    margin-left: 36px;
+}
+#footer a{
+    color: white;
+    font-size: 6px;
+}
+#footer p{
+    padding: 20px;
+    color: white;
+    font-size: 6px;
+}
