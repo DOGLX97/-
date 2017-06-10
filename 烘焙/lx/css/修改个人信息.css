@@ -1,0 +1,43 @@
+#change{
+    height: 350px;
+}
+#change .left{
+    float: left;
+    margin-left:50px;
+    width: 300px;
+}
+#change .right{
+    margin-left: 150px;
+    float: left;
+    width: 600px;
+    height: 350px;
+   text-align: center;
+
+}
+#change .info{
+    margin-top: 100px;
+}
+#change .info div{
+    width: 10px;
+    height: 10px;
+    margin-right: 5px;
+    display: inline-block;
+}
+#change .info .nav{
+    width: 80px;
+    height: 21px;
+}
+#change .btn{
+    margin-top: 100px;
+}
+#change .right .btn button{
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    background: #A593C2;
+    border: 1px solid #A593C2;
+    border-radius:5px;
+    color: white;
+    cursor: pointer;
+}
