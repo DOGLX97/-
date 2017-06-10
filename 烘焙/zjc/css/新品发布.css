@@ -1,0 +1,233 @@
+#photo{
+    width: 100%;
+    height: 188px;
+    background: url("../img/images/things_07.png") no-repeat center center ;
+}
+#icon{
+    width: 1380px;
+    position: relative;
+    top: 136px;
+    left: 13.7%;
+}
+#icon img{
+    position: relative;
+    z-index: 2;
+
+}
+#name,#saying{
+    position: relative;
+    left: 25%;
+}
+#saying{
+    width: 400px;
+    display: inline-block;
+}
+#reset{
+    float: right;
+    color: white;
+    position: relative;
+    right: 10%;
+
+}
+#sign{
+    position:absolute;
+    background: #f3f3f3;
+    width: 240px;
+    font-size: 13px;
+    margin-top: 10px;
+    font-weight: bold;
+    border: 0;
+    color: #6b6b6b;
+}
+#reset img{
+    vertical-align: middle;
+}
+#grey{
+    position: relative;
+    display: block;
+    background: #f3f3f3;
+    margin: 0 auto;
+    width: 1200px;
+    height: 92px;
+    z-index: 0;}
+#content{
+    height: 876px;
+    width:1200px;
+    background: #f3f3f3;
+    margin:0 auto;
+    position: relative;
+}
+.series{
+    position: absolute;
+    width:248px;
+    height: 295px;
+    background: #fba1a1;
+    margin-left: 30px;
+    border-radius: 10px;
+}
+.s1{
+    height: 59px;
+    line-height: 59px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+    clear:both;
+}
+#seriesImg1{
+    position: absolute;
+    top: 17px;
+    left: 35px;
+}
+#blue{
+    height: 59px;
+    width: 7px;
+    background: #a0ecd9;
+    display: inline-block;
+    position: absolute;
+}
+#seriesImg2{
+    display: inline-block;
+    position: absolute;
+    top: 77px;
+    left: 35px;
+}
+#seriesImg3{
+    position: absolute;
+    top: 136px;
+    left: 35px;
+}
+#seriesImg4{
+    position: absolute;
+    top: 195px;
+    left: 35px;
+}
+#seriesImg5{
+    position: absolute;
+    top: 254px;
+    left: 36px;
+}
+.s2{
+    float: left;
+    width: 248px;
+    background:#fc7d7d;
+    height: 59px;
+    line-height: 59px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: bold;
+}
+.massage{
+    display: inline-block;
+    background: #a0ecd9;
+    color: #ffffff;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 20px;
+    text-align: center;
+    width: 38px;
+    height: 20px;
+    border-radius: 10px;
+    position: absolute;
+    top: 255px;
+    left: 180px;
+
+}
+#girl{
+    position: absolute;
+    margin-left: 30px;
+    top: 305px;
+}
+#cake a{
+    color: black;
+}
+.series a{
+    color: #ffffff;}
+.func{
+    height: 860px;
+    width: 832px;
+    background: #ffffff;
+    position: absolute;
+    left: 325px;
+}
+.name{
+    height: 25px;
+    margin-left: 130px;
+    margin-top: 20px;
+    color: #515151;
+}
+.namex{
+    margin-left: 130px;
+    margin-top: 30px;
+    color: #515151;
+    position: relative;
+}
+.span1{
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: right;
+    
+}
+.span11{
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: right;
+    vertical-align: top;
+    position: relative;
+    top: 25px;
+}
+#name1{
+    width: 210px;
+    height: 30px;
+    background: #f4f4f4;
+    border: solid 1px #dedede;
+    outline: none;
+}
+.name2{
+    width: 112px;
+    height: 30px;
+    background: #f4f4f4;
+    border: solid 1px #dedede;
+    outline: none;
+    color: #a5a5a5;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.span3{
+    font-size: 20px;
+    font-weight: bold;
+    color: #ff6c00;
+}
+#sty{
+    display: inline-block;
+    width: 555px;
+}
+#name3{
+    width: 540px;
+    height: 60px;
+    background: #f4f4f4;
+    border: solid 1px #dedede;
+    outline: none;
+    margin-top: 20px;
+}
+#up{
+    position: absolute;
+    bottom: 20%;
+    left: 17%;
+}
+.up{
+    background: #8766bc;
+    color: white;
+    width: 263px;
+    height: 45px;
+    border-radius: 10px;
+    font-size: 23px;
+    font-weight: bolder;
+    text-align: center;
+    line-height: 45px;
+    position: absolute;
+    bottom: 10%;
+    right: 30%;
+
+}
